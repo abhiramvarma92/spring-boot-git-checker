@@ -61,4 +61,5 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/spring-jcl/5.2.1.RELEASE/spring-jcl-5.2.1.RELEASE.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/io/projectreactor/reactor-core/3.3.0.RELEASE/reactor-core-3.3.0.RELEASE.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/jcraft/jsch/0.1.55/jsch-0.1.55.jar" enabled="true" runInBatchMode="false"/>
 </factorypath>
